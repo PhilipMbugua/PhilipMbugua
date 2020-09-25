@@ -2,7 +2,6 @@
 
 ## I'm a 3rd year Computer Science student from the University of Nairobi and an up n coming web developer!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on project based js projects
 - 🌱 I’m currently learning js, PERN stack, testing
