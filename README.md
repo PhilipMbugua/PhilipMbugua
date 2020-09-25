@@ -17,7 +17,7 @@
 👔 [linkedin][linkedin]
 
 [twitter]: https://twitter.com/phi1ipmbugua
-[youtube]: https://youtube.com/PhilipMbugua
+[youtube]: https://youtube.com/channel/UCrYe74AVTfxMUz937DcWQFg
 [twitch]: https://twitch.tv/philipmbugua
 [instagram]: https://instagram.com/phi1ipmbugua
 [linkedin]: https://linkedin.com/in/philipmbugua
