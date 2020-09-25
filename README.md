@@ -9,11 +9,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can do the "around the world" football⚽ move!
 
+You can reach me at:
 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+  🐦 [twitter][twitter] **|** 
+  📷 [instagram][instagram] **|** 
+  👔 [linkedin][linkedin]
 
-[twitter]: https://twitter.com/phi1ipmbugua
-[instagram]: https://instagram.com/phi1ipmbugua
-[linkedin]: https://linkedin.com/in/philipmbugua
+  [twitter]: https://twitter.com/phi1ipmbugua
+  [instagram]: https://instagram.com/phi1ipmbugua
+  [linkedin]: https://linkedin.com/in/philipmbugua
