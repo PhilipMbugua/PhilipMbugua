@@ -1,6 +1,6 @@
 ### Hi, I'm Phil👋
 
-## I'm a 4th year Computer Science student from the University of Nairobi and a freelance web developer!
+## I'm a 4th year Computer Science student at the University of Nairobi and a freelance web developer!
 
 
 - 🔭 I’m currently working on project based js projects
