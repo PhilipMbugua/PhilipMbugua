@@ -1,11 +1,11 @@
 ### Hi, I'm Phil👋
 
-## I'm a 4th year Computer Science student at the University of Nairobi and a freelance web developer!
+## I'm a 4th year Computer Science student at the University of Nairobi | Class of 2021!
 
 
-- 🔭 I’m currently working on project based vanilla js and vuejs projects
+- 🔭 I’m currently working on finishing my final year in campus and my 4th year project
 - 🌱 I’m currently learning vue, vanillajs, PERN stack, testing
-- 💬 Ask me about cool VS code setup extensions & settings, office 2019 *activated* installation🤫
+- 💬 Ask me about cool VS code setup extensions & settings, office 2019 *activated* installation🤫 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can do the "around the world" football⚽ move!
 
