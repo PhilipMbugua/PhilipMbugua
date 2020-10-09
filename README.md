@@ -1,4 +1,4 @@
-### Hi, I'm Phil👋
+### Hi, I'm Phil👋 
 
 ## I'm a 4th year Computer Science student at the University of Nairobi | Class of 2021!
 
