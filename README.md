@@ -1,4 +1,4 @@
-### Hi, I'm Phil👋 
+<h2>Hi, I'm Phil! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 ## I'm a 4th year Computer Science student at the University of Nairobi | Class of 2021!
 
