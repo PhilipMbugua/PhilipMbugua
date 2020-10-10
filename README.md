@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on finishing my final year in campus and my 4th year project
-- 🌱 I’m currently learning vue, vanillajs, PERN stack, testing
+- 🌱 I’m currently learning Excel VBA, vue, vanillajs, M/P[ERN] stack, testing
 - 💬 Ask me about cool VS code setup extensions & settings, office 2019 *activated* installation🤫 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can do the "around the world" football⚽ move!
