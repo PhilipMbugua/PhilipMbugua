@@ -11,7 +11,7 @@
 
 You can reach me at:
 
-  🐦 [twitter][twitter] **|** 
+  🦆 [twitter][twitter] **|** 
   📷 [instagram][instagram] **|** 
   👔 [linkedin][linkedin]
 
