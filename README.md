@@ -5,7 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+
 - 🔭 I’m currently working on finishing my final year in campus and my 4th year project
 - 🌱 I’m currently learning vue, vanillajs, PERN stack, testing
 - 💬 Ask me about cool VS code setup extensions & settings, office 2019 *activated* installation🤫 
@@ -22,6 +22,5 @@ You can reach me at:
   [instagram]: https://instagram.com/phi1ipmbugua
   [linkedin]: https://linkedin.com/in/philipmbugua
   
-```javascript
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
