@@ -1,6 +1,6 @@
 <h1>Hi, I'm Phil! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Final year Computer Science student at <a href="https://www.uonbi.ac.ke/">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Final year Computer Science student at <a href="https://www.uonbi.ac.ke/">University of Nairobi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 🔭 I’m currently working on finishing my final year in campus and my 4th year project
