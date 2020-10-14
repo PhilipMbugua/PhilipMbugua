@@ -45,9 +45,6 @@
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
-</p>
-
-<p align="center">
 
 <a href="https://www.linkedin.com/in/philipmbugua/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-PhilipMbugua-blue?style=flat-square&logo=linkedin"></a>
 
