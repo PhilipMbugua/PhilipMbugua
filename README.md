@@ -33,7 +33,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipMbugua&show_icons=true)
 
-<br>
+<br><br>
+
+
+
+<hr>
 
 You can reach me at:
 
