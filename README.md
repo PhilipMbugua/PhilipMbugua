@@ -45,9 +45,12 @@
 
 
 <p align="center">
-[![](https://img.shields.io/badge/LinkedIn-philipmbugua-blue)](https://www.linkedin.com/in/philipmbugua/)
-[![](https://img.shields.io/badge/Gmail-philmbugua.pm@gmail.com-red)](mailto:philmbugua.pm@gmail.com)
-[![](https://img.shields.io/badge/Telegram-PhilipMbugua-blue)](https://t.me/PhilipMbugua)
+
+<a href="https://www.linkedin.com/in/philipmbugua/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Philip%Mbugua-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://www.instagram.com/phi1ipmbugua/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Philip%Mbugua-black?style=flat-square&logo=instagram"></a>
+
+<a href="mailto:philmbugua.pm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-philmbugua.pm@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
