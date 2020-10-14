@@ -43,14 +43,13 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<hr>
 
-You can reach me at:
-
+<p align="center">
 [![](https://img.shields.io/badge/LinkedIn-philipmbugua-blue)](https://www.linkedin.com/in/philipmbugua/)
 [![](https://img.shields.io/badge/Gmail-philmbugua.pm@gmail.com-red)](mailto:philmbugua.pm@gmail.com)
 [![](https://img.shields.io/badge/Telegram-PhilipMbugua-blue)](https://t.me/PhilipMbugua)
 
+</p>
 
 <br>
 
