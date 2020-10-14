@@ -13,13 +13,8 @@
 
 You can reach me at:
 
-  🦆 [twitter][twitter] **|** 
-  📷 [instagram][instagram] **|** 
-  👔 [linkedin][linkedin]
-
-  [twitter]: https://twitter.com/phi1ipmbugua
-  [instagram]: https://instagram.com/phi1ipmbugua
-  [linkedin]: https://linkedin.com/in/philipmbugua
+[![](https://img.shields.io/badge/LinkedIn-philipmbugua-blue)](https://www.linkedin.com/in/philipmbugua/)
+[![](https://img.shields.io/badge/Gmail-philmbugua.pm@gmail.com-red)](mailto:philmbugua.pm@gmail.com)
   
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
