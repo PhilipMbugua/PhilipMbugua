@@ -1,24 +1,30 @@
 <a target="_blank" href="https://shunjid.github.io"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
-# Philip Mbugua
+# Hi I'm Phil
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:philmbugua.pm@gmail.com)
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dphi1ipmbugua&suffix=%20Followers)](https://twitter.com/phi1ipmbugua)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/philipmbugua/)
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/phi1ipmbugua/)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Final year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> (Class of 2021) Computer Science student at the <a href="https://www.uonbi.ac.ke/">University of Nairobi</a></p>
 
+## My Stack
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-<h3>A little more about me...</h3>
-
-
-
-- 🔭 &nbsp; I’m currently working on finishing my final year in campus and my 4th year project
-
-- 🌱 &nbsp; I’m currently learning Excel VBA, vue, vanillajs, M/P[ERN] stack, testing
-
-- 💬 &nbsp; Ask me about cool VS code setup extensions & settings, MS Office 2019 *activated* installation🤫 
-
-- 😄 &nbsp; Pronouns: he/him
-
-- ⚡ &nbsp; Fun fact: I can do the "around the world" football⚽ move!
+Languages: Python, JavaScript
+<br>
+Backend: Django, Flask
+<br>
+Frontend: HTML5, CSS3, Bootstrap
+<br>
+API: Django REST Framework
+<br>
+Databases: MySQL, PostgreSQL
+<br>
+Experimenting: Django, Flask, Heroku
+<br>
+Tools: Docker, Git, Github, Bitbucket
+<br>
 
 <hr>
 
@@ -42,18 +48,6 @@
 
 </br>
 
-<p align="center">
-  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-
-
-<a href="https://www.linkedin.com/in/philipmbugua/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-PhilipMbugua-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/phi1ipmbugua/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-PhilipMbugua-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:philmbugua.pm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-philmbugua.pm@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
 
 <br>
 
