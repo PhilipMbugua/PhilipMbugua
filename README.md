@@ -31,8 +31,9 @@ Experimenting: Django, Flask, Heroku
 Tools: Docker, Git, Github, Bitbucket
 <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PhilipMbugua&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/PhilipMbugua)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipMbugua&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=PhilipMbugua&show_icons=true&theme=merko&hide=["contribs","issues"])
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipMbugua&layout=compact)
+
 
 ---
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
