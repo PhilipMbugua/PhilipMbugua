@@ -6,11 +6,13 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/philipmbugua/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/phi1ipmbugua/)
 
+<p>
 :wave: Hi there, My name is Philip Mbugua.😀 I'm 23 years old, I'm a Final year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> (Class of 2021) Computer Science student at the <a href="https://www.uonbi.ac.ke/">University of Nairobi</a>
 I've profound knowledge in Django Framework, Machine Learning, AI Software Development. 
 Currently, I completed Diploma in Computer Science from 🇧🇩. 
 I'm interested in doing research on text and image related problems. 
 I love to work with new technologies and playing with Data and AI.🤖
+</p>
 
 <p><em></p>
 
