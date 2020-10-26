@@ -1,4 +1,3 @@
-<a target="_blank" href="https://shunjid.github.io"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
 # Hi I'm Phil
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:philmbugua.pm@gmail.com)
@@ -6,7 +5,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/philipmbugua/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/phi1ipmbugua/)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <p><em>Final year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> (Class of 2021) Computer Science student at the <a href="https://www.uonbi.ac.ke/">University of Nairobi</a></p>
 
 ## My Stack
