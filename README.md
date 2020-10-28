@@ -7,7 +7,7 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/phi1ipmbugua/)
 
 <p><em>
-:wave: Hi there, My name is Philip Mbugua.😀 I'm a 23 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> Computer Science student <br> at the <a href="https://www.uonbi.ac.ke/">University of Nairobi | Class of 2021</a> 
+:wave: Hi there, My name is Philip Mbugua.😀 I'm a 23 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> Computer Science student at the <a href="https://www.uonbi.ac.ke/">University of Nairobi | Class of 2021</a> 
 </p>
 
 <p><em></p>
