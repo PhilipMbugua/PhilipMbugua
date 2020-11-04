@@ -15,17 +15,15 @@
 
 ## My Stack
 
-Backend: PHP, Django
+Backend: PHP
 <br>
-Frontend: HTML5, CSS3, Bootstrap
+Frontend: HTML5, CSS
 <br>
 API: PHP/Django REST Framework
 <br>
-Databases: MySQL, PostgreSQL
+Databases: MySQL
 <br>
-Experimenting: Django, Flask, Heroku
-<br>
-Tools: Git, Github, Bitbucket
+Tools: Git, Github
 <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PhilipMbugua&show_icons=true&theme=merko&hide=["contribs","issues"])
