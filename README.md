@@ -40,6 +40,8 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 [instagram]: https://www.instagram.com/phi1ipmbugua/
 [linkedin]: https://www.linkedin.com/in/philipmbugua/
 
+<br>
+
 ---
 
 ⭐️ From [@PhilipMbugua](https://github.com/PhilipMbugua)
