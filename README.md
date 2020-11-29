@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Phil. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <p><em>
-My name is Philip Mbugua.😀 I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> Computer Science student at the <a href="https://www.uonbi.ac.ke/">University of Nairobi | Class of 2021</a> 
+I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> Computer Science student at the <a href="https://www.uonbi.ac.ke/">University of Nairobi | Class of 2021</a> 
 </p>
 
 <p><em></p>
