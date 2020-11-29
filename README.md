@@ -29,7 +29,7 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PhilipMbugua&show_icons=true&theme=merko&hide=["contribs","issues"])
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipMbugua&layout=compact)
 
-<br>
+---
 
 ### You can find in me in the web 🌍
 
@@ -41,8 +41,6 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 [twitter]: https://twitter.com/phi1ipmbugua
 [instagram]: https://www.instagram.com/phi1ipmbugua/
 [linkedin]: https://www.linkedin.com/in/philipmbugua/
-
-</br>
 
 ---
 
