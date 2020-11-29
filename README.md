@@ -29,13 +29,16 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PhilipMbugua&show_icons=true&theme=merko&hide=["contribs","issues"])
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipMbugua&layout=compact)
 
-<h3> 🤝 Connect with Me </h3>
+### You can find in me in the web 🌍
 
-<p align="center">
-&nbsp; <a href="https://twitter.com/phi1ipmbugua" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/phi1ipmbugua/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/philipmbugua/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-</p>
+[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[twitter]: https://twitter.com/phi1ipmbugua
+[instagram]: https://www.instagram.com/phi1ipmbugua/
+[linkedin]: https://www.linkedin.com/in/philipmbugua/
 
 ---
 
