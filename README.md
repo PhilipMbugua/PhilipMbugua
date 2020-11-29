@@ -14,7 +14,7 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 - 💼 &nbsp; Full stack web developer.
 - 🌱 &nbsp; Enthusiast in ML&AI.
 - ✍️ &nbsp; Watching Youtube tech related channels and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I belive a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
