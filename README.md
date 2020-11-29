@@ -11,8 +11,6 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Eccomerce web application development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Full stack web developer.
 - 🌱 &nbsp; Enthusiast in ML&AI.
 - ✍️ &nbsp; Watching Youtube tech related channels and trying out latest design trends as hobbies/side hustles.
@@ -37,7 +35,6 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 &nbsp; <a href="https://twitter.com/phi1ipmbugua" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/phi1ipmbugua/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/philipmbugua/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:philmbugua.pm@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 ---
