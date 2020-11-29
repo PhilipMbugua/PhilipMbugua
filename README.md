@@ -31,12 +31,9 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PhilipMbugua&show_icons=true&theme=merko&hide=["contribs","issues"])
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipMbugua&layout=compact)
 
-</br>
-
 <h3> 🤝 Connect with Me </h3>
 
 <p align="center">
-
 &nbsp; <a href="https://twitter.com/phi1ipmbugua" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/phi1ipmbugua/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/philipmbugua/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
