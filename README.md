@@ -33,14 +33,14 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### You can find in me in the web 🌍
 
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="phi1ipmbugua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="philipmbugua | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="philipmbugua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [twitter]: https://twitter.com/phi1ipmbugua
-[instagram]: https://www.instagram.com/phi1ipmbugua/
 [linkedin]: https://www.linkedin.com/in/philipmbugua/
+[instagram]: https://www.instagram.com/phi1ipmbugua/
 
 <br>
 
