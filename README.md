@@ -13,7 +13,7 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 - 🔭 &nbsp; I’m currently learning Eccomerce web application development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Full stack developer.
+- 💼 &nbsp; Full stack web developer.
 - 🌱 &nbsp; Enthusiast in ML&AI.
 - ✍️ &nbsp; Watching Youtube tech related channels and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
