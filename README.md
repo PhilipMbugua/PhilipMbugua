@@ -10,7 +10,7 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Eccomerce web application development(Final yer project).
+- 🔭 &nbsp; I’m currently learning E-commerce web application development(Final yer project).
 - 💼 &nbsp; I intend to be a Full stack web developer.
 - ✍️ &nbsp; Watching Youtube tech related channels.
 - ☕ &nbsp; I belive a perfect cup of coffee can be the ultimate solution for any stress. 
