@@ -37,9 +37,9 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 [<img align="left" alt="philipmbugua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: https://twitter.com/phi1ipmbugua
+[twitter]: https://twitter.com/FiLipMbugua
 [linkedin]: https://www.linkedin.com/in/philipmbugua/
-[instagram]: https://www.instagram.com/phi1ipmbugua/
+[instagram]: https://www.instagram.com/filipmbugua/
 
 <br>
 
