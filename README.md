@@ -10,10 +10,10 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning E-commerce web application development(Final yer project).
+- 🔭 &nbsp; I’m currently learning E-commerce web application development(My final year project).
 - 💼 &nbsp; I intend to be a Full stack web developer.
 - ✍️ &nbsp; Watching Youtube tech related channels.
-- ☕ &nbsp; I belive a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I belive 10 minutes of meditation can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
@@ -21,7 +21,7 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Xampp
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
-- 🖥 &nbsp; Figma
+- 🖥 &nbsp; Samsung notes(for sketching quick designs)
 
 <br>
 
