@@ -11,16 +11,15 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning E-commerce web application development(My final year project).
-- 💼 &nbsp; I intend to be a Full stack web developer.
-- ✍️ &nbsp; Watching Youtube tech related channels.
+- 💼 &nbsp; I am a Front End Developer.
+- ✍️ &nbsp; I enjoy watching Youtube tech related channels particularly the WebDevSimplified channel.
 - ☕ &nbsp; I belive 10 minutes of meditation can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | PHP  
-- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 💻 &nbsp; React 
+- 🌐 &nbsp; HTML | CSS | JavaScript 
+- 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Samsung notes(for sketching quick designs)
 
 <br>
