@@ -10,7 +10,7 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; I am a Front End Developer.
+- 💼 &nbsp; I am a Freelance Front End Developer.
 - ✍️ &nbsp; I enjoy watching Youtube tech related channels particularly the WebDevSimplified channel.
 - ☕ &nbsp; I believe 10 minutes of meditation can be the ultimate solution for any stress. 
 
