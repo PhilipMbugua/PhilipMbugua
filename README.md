@@ -17,7 +17,7 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - 💻 &nbsp; React | HTML | CSS | JavaScript
 - 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Samsung notes(for sketching quick designs)
+- 🖥 &nbsp; Samsung notes(for sketching quick UI designs)
 
 <br>
 
