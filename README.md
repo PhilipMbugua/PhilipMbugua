@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Phil. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <p><em>
-I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> Computer Science student at the <a href="https://www.uonbi.ac.ke/">University of Nairobi | Class of 2021</a> 
+I'm a 29 year old <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> Computer Science graduate from the <a href="https://www.uonbi.ac.ke/">University of Nairobi | Class of 2021</a> 
 </p>
 
 <p><em></p>
@@ -10,8 +10,9 @@ I'm a 24 year old Final year <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-💼 &nbsp; I am a Freelance Front End Developer. </br>
-✍️ &nbsp; I enjoy watching Youtube coding tech related channels particularly the Web Dev Simplified and Tech With Tim channel.
+💼 &nbsp; I am a Freelance Software Developer. </br>
+💼 &nbsp; I am an ALX VA Trainee. </br>
+✍️ &nbsp; I enjoy watching a good series and watching Youtube coding tech related channels particularly Web Dev Simplified and Tech With Tim channel.
 
 <h3>🛠 Tech Stack</h3>
 
