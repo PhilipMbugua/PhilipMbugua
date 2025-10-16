@@ -16,7 +16,7 @@ I'm a 29 year old <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; React | HTML | CSS | JavaScript
+- 💻 &nbsp; | HTML | CSS | JavaScript
 - 🔧 &nbsp; Visual Studio code | Git | Figma
 
 <br>
