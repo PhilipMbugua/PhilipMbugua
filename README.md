@@ -28,12 +28,10 @@ I'm a 29 year old <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ### You can find in me in the web 🌍
 
-[<img align="left" alt="phi1ipmbugua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="philipmbugua | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="philipmbugua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: https://twitter.com/FiLipMbugua
 [linkedin]: https://www.linkedin.com/in/philipmbugua/
 [instagram]: https://www.instagram.com/filipmbugua/
 
