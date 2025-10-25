@@ -33,8 +33,6 @@ I'm a 29 year old <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 
 [linkedin]: https://www.linkedin.com/in/philipmbugua/
-[instagram]: https://www.instagram.com/filipmbugua/
-
 <br>
 
 ---
