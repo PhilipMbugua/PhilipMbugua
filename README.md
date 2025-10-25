@@ -26,12 +26,13 @@ I'm a 29 year old <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ---
 
-### You can find in me in the web 🌍
-
+### You can find in me on 
 [<img align="left" alt="philipmbugua | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/philipmbugua/
+
+<br>
 
 ---
 
