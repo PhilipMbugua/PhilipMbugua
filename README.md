@@ -11,8 +11,8 @@ I'm a 28 year old <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 <h3> 👨🏻‍💻 About Me </h3>
 
 💼 &nbsp; I am a Freelance Software Developer. </br>
-💼 &nbsp; I am currently an ALX VA Trainee cohort 13. </br>
-✍️ &nbsp; I enjoy a good series and watching car projects and rebuilds specifically Mat Armstrong's youtube channel.
+💼 &nbsp; I am currently an ALX Virtual Assistant in training #cohort13 </br>
+✍️ &nbsp; I enjoy a well written series with excellent dialogue!
 
 <h3>🛠 Tech Stack</h3>
 
