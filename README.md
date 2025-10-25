@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Phil. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <p><em>
-I'm a 29 year old <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> BSc Computer Science graduate from the <a href="https://www.uonbi.ac.ke/">University of Nairobi | Class of 2021</a> 
+I'm a 29 year old <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> BSc Computer Science graduate from the <a href="https://www.uonbi.ac.ke/">University of Nairobi</a> 
 </p>
 
 <p><em></p>
