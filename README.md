@@ -10,8 +10,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; | HTML | CSS 
-- 🔧 &nbsp; Visual Studio code | Git | Figma
+- 💻 &nbsp; Google Workspace
+- 🔧 &nbsp; Visual Studio code | Git | Figma | HTML | CSS 
 
 <br>
 
