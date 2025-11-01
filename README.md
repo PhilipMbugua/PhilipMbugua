@@ -1,16 +1,10 @@
-<h2> Hey there! I'm Phil. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
-<p><em>
-I'm a 28 year old <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em> BSc Computer Science graduate from the <a href="https://www.uonbi.ac.ke/">University of Nairobi</a> 
-</p>
-
-<p><em></p>
+<h2> Hey there! I'm Phil, a  BSc Computer Science graduate from the <a href="https://www.uonbi.ac.ke/">University of Nairobi</a> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 About Me  </h3>
 
-💼 &nbsp; I am a Freelance Software Developer. </br>
+💼 &nbsp; I am a Freelance Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
 💼 &nbsp; I am currently an ALX Virtual Assistant in training #cohort13 </br>
 ✍️ &nbsp; I enjoy a well written series with excellent dialogue!
 
