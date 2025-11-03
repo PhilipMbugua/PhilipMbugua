@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me  </h3>
 
 💼 &nbsp; I am a Freelance Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
-💼 &nbsp; I am currently an ALX Virtual Assistant in training #cohort13 </br>
+💼 &nbsp; Tech-Savvy ALX Virtual Assistant in training #cohort13 </br>
 ✍️ &nbsp; I enjoy a well written series with excellent dialogue!
 
 <h3>🛠 Tech Stack</h3>
