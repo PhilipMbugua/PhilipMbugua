@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me  </h3>
 
 💼 &nbsp; I am a Tech-Savvy Virtual Assistant<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
-✍️ &nbsp; I enjoy a well written series with excellent dialogue!
+✍️ &nbsp; I enjoy a well written series with excellent &nbsp; dialogue!
 
 <h3>🛠 Tech Stack</h3>
 
