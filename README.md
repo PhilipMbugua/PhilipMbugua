@@ -12,7 +12,7 @@
 - 🔧 &nbsp; Digital Collaboration Tools (Slack, Zoom, Trello, Asana) 
 
 
-Connect with me on <a href="https://www.linkedin.com/in/philipmbugua/">LinkedIn
+<b> Connect with me on <b> <a href="https://www.linkedin.com/in/philipmbugua/">LinkedIn
 
 <br>
 
