@@ -1,6 +1,5 @@
 <h2> Hey there! I'm Phil, a  BSc Computer Science graduate from the <a href="https://www.uonbi.ac.ke/">University of Nairobi</a> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
-&nbsp;<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me  </h3>
 
