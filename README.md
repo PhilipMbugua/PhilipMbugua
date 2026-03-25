@@ -8,8 +8,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Google Workspace | Microsoft Suite
-- 🔧 &nbsp; Digital Collaboration Tools (Slack, Zoom, Trello, Asana) 
+💻 &nbsp; Google Workspace | Microsoft Suite </br>
+🔧 &nbsp; Digital Collaboration Tools (Slack, Zoom, Trello, Asana) 
 
 
 <b> Connect with me on <b> <a href="https://www.linkedin.com/in/philipmbugua/">LinkedIn
